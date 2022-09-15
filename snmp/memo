@@ -1,0 +1,6 @@
+"description":"snmpd.conf for pentesting."
+"version":"Net-SNMP version: 5.8",
+"ipv4":"filter",
+"ipv6":"pass",
+"user":"None"
+
